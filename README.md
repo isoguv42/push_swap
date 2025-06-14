@@ -34,11 +34,6 @@ _42 School Curriculum Project - Codam - Algorithm & Data Structures_
 
 [![push_swap](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png)](https://github.com/42School)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/isoguv42/push_swap)
-![Lines of code](https://img.shields.io/tokei/lines/github/isoguv42/push_swap)
-![Language](https://img.shields.io/badge/Language-C-blue)
-![Norm](https://img.shields.io/badge/42-Norm_v3-success)
-
 [![42 School](https://img.shields.io/badge/42-School-%23000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42.fr/)
 [![Language](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Norm](https://img.shields.io/badge/Norm-v3-success?style=for-the-badge)](https://github.com/42School/norminette)
@@ -336,11 +331,11 @@ _"The only way to learn a new programming language is by writing programs in it.
 
 ## 🏆 Author
 
-**Ilyas Gyuveni** - [@isoguv42](https://github.com/isoguv42)
+**Ismail Gyuvenir** - [@isoguv42](https://github.com/isoguv42)
 
 - 🎓 42 Codam Student  
-- 📧 [igyuveni@student.42.fr](mailto:igyuveni@student.42.fr)
-- 💼 [LinkedIn](https://linkedin.com/in/ilyasgyuveni)
+- 📧 [igyuveni@student.codam.nl](mailto:igyuveni@student.codam.nl)
+- 💼 [LinkedIn](https://linkedin.com/in/isoguv)
 
 ## 📜 License
 
